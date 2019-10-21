@@ -1,5 +1,5 @@
 <?php
-namespace Limbonia;
+namespace Limbonia\Email;
 
 /**
  * The IMAP class is a wrapper around the IMAP email server protocol

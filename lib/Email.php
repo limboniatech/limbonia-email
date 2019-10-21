@@ -1,5 +1,5 @@
 <?php
-namespace Limbonia;
+namespace Limbonia\Email;
 
 /**
  * Limbonia Email Class

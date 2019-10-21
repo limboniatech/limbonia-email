@@ -1,5 +1,5 @@
 # limbonia
-This repository contains all Limbonia code that hasn't been / can't be broken out into sub-projects
+This repository contains all Limbonia email management code
 
 ## TODO
 Write out the rest of the documentation...
