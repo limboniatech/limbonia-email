@@ -1,4 +1,4 @@
-# limbonia
+# limbonia-email
 This repository contains all Limbonia email management code
 
 ## TODO
