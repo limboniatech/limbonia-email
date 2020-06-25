@@ -423,7 +423,7 @@ class Imap
   public function fetchHeaders($sId)
   {
     $aResult = $this->fetch($sId, 'BODY.PEEK[HEADER]');
-    return \Limbonia\Email::processHeaders($aResult);
+    return Email::processHeaders($aResult);
   }
 
   /**
